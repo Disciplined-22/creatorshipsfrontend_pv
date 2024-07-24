@@ -1,0 +1,9 @@
+.cus_newsletter {
+    border-radius: 150px;
+}
+
+@media (max-width: 1306px) {
+    .cus_newsletter {
+        border-radius: 0;
+    }
+}
